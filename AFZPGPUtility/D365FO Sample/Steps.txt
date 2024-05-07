@@ -1,0 +1,4 @@
+1. Import D365 project
+2. Add dll from the folder as reference in the VS project
+3. Sample keys are available in keys folder
+4. If keys file are used then set proper file location of keys saved in server
